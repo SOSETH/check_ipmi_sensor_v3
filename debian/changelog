@@ -1,0 +1,5 @@
+check-ipmi-sensor (3.12-1) unstable; urgency=medium
+
+  * Initial release, corresponds to upstream 3.12
+
+ -- Maximilian Falkenstein <mfalkenstein@sos.ethz.ch>  Wed, 02 May 2018 20:56:08 +0200

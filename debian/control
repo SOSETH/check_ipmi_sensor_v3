@@ -1,0 +1,14 @@
+Source: check-ipmi-sensor
+Section: devel
+Priority: optional
+Maintainer: Maximilian Falkenstein <mfalkenstein@sos.ethz.ch>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: https://github.com/thomas-krenn/check_ipmi_sensor_v3
+Vcs-Git: https://github.com/SOSETH/check_ipmi_sensor_v3.git
+Vcs-Browser: https://github.com/SOSETH/check_ipmi_sensor_v3
+
+Package: check-ipmi-sensor
+Architecture: all
+Depends: ${perl:Depends}, freeipmi, perl, libipc-run-perl
+Description: Check IPMI sensors
