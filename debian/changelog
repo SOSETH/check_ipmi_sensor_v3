@@ -1,3 +1,9 @@
+check-ipmi-sensor (3.13-1) unstable; urgency=medium
+
+  * Bump to upstram 3.13+
+
+ -- Maximilian Falkenstein <mfalkenstein@sos.ethz.ch>  Fri, 19 Jul 2019 21:31:55 +0200
+
 check-ipmi-sensor (3.12-1) unstable; urgency=medium
 
   * Initial release, corresponds to upstream 3.12
